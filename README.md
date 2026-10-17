@@ -1,4 +1,3 @@
-# EXP-06 - Docker Image Deployment
 
 ## Aim
 
@@ -112,3 +111,4 @@ The submission file will be added separately when required.
 ## Result
 
 Docker images were successfully created and deployed. The Flask application was tested locally, deployed using port mapping and a restart policy, and successfully updated and redeployed using Docker image Version 2.0.
+
